@@ -122,10 +122,8 @@ If you have ideas or feedback, feel free to reach out!
 
 ## 📫 Contact
 
-- 📧 Email: `your-email-here@example.com`  
-- 💬 Telegram / Discord: `your-handle-here`
+- 📧 Email: `mateberidze464@gmail.com`  
 
-*(Replace with your real contacts.)*
 
 ---
 
