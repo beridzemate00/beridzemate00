@@ -65,14 +65,7 @@ Dashboards, course management, assignments, and basic grading/statistics (work i
 ### 🛒 Storewise Admin – Headless E-Commerce
 Modern **React + TypeScript + Vite** e-commerce frontend with a separate admin area.  
 Features: product & category management, cart & checkout flow, clean UI, and room for integrations.  
-🔗 Repo: [Storewise Admin](https://github.com/beridzemate00/storewise-admin)
-
----
-
-### 🍳 Express Recipes Pagination
-Node.js + Express app to practice **REST APIs, pagination, and backend logic**.  
-Useful for learning how to structure an API and handle lists of data efficiently.  
-🔗 Repo: [express-recipes-pagination](https://github.com/beridzemate00/express-recipes-pagination)
+🔗 Repo: [storewise] https://github.com/beridzemate00/storewise
 
 ---
 
